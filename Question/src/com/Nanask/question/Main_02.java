@@ -13,7 +13,7 @@ public class Main_02 {
 		
 		a = scan.nextInt();
 		b = scan.nextInt();
-		
+		scan.close();
 		System.out.println(a - b);
 		
 	}
